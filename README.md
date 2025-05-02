@@ -19,11 +19,11 @@ nix develop  --experimental-features 'nix-command flakes'
 ## Compile
 
 ```sh
-javac hello.java
+javac Hello.java
 ```
 
 ## Run
 
 ```sh
-java hello
+java Hello
 ```
